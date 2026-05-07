@@ -1,0 +1,6 @@
+AUD-L1;Auditoire L1;200
+AUD-L2;Auditoire L2;150
+AUD-L3;Auditoire L3;120
+AUD-L4;Auditoire L4;100
+SALLE-MACH;Salle Machines;50
+SALLE-MGT;Salle Management;40

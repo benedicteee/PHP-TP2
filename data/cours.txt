@@ -1,0 +1,5 @@
+C001;Programmation;4;tronc;L1
+C002;Réseaux;4;tronc;L2
+C003;Base de données;4;tronc;L3
+C004;IA;4;option;L3
+C005;Sécurité;4;option;L4
